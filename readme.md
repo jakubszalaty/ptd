@@ -3,6 +3,8 @@
 
 ## Setup
 
+Scripts are based on [NodeJS](https://nodejs.org/).
+
 ```sh
 git clone https://github.com/nnaisur/ptd.git
 
